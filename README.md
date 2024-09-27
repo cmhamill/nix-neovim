@@ -1,0 +1,2 @@
+# nix-neovim
+Neovim configuration
